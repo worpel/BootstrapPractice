@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Pangolin');
+.jumbotron {
+  font-family: Pangolin;
+}
+
+.header {
+  /* margin: 10%; */
+  display: flex;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: bolder;
+}
+
+.far,
+.fas {
+  font-size: 3rem;
+}
